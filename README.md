@@ -50,4 +50,3 @@ I’m now ready to start working on real projects and build something great. If 
 #
 
 ![](https://komarev.com/ghpvc/?username=deloyper&color=red)
-![](https://badgen.net/discord/members/HA8KP4SJRT)
