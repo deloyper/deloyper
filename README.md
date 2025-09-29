@@ -17,7 +17,7 @@ const response = {
   meta: {
     lastUpdated: new Date().toISOString(),
     profileVisibility: "public",
-    version: "1.0.3",
+    version: "1.0.4",
   },
 };
 ```
@@ -45,7 +45,7 @@ Here are the technologies I work with:
 
 #
 
-I’m now ready to start working on real projects and build something great. If you're looking for a motivated and passionate developer, feel free to [reach out](https://t.me/a01100001)! 🚀
+I’m now ready to start working on real projects and build something great. If you're looking for a motivated and passionate developer, feel free to [reach out](https://t.me/onlyInject)! 🚀
 
 #
 
