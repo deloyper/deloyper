@@ -17,7 +17,7 @@ const response = {
   meta: {
     lastUpdated: new Date().toISOString(),
     profileVisibility: "public",
-    version: "1.0.4",
+    version: "1.0.5",
   },
 };
 ```
@@ -50,4 +50,4 @@ I’m now ready to start working on real projects and build something great. If 
 #
 
 ![](https://komarev.com/ghpvc/?username=deloyper&color=red)
-![](https://badgen.net/discord/members/HA8KP4SJRT)
+![](https://badgen.net/discord/members/2EKQ4NKkYU)
